@@ -1,0 +1,1 @@
+uvicorn main:app --host :: --port 7001 --reload
